@@ -1,0 +1,17 @@
+{
+  "name": "",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "http://",
+  "author": {
+    "name": "publicJorn",
+    "url": "https://github.com/publicJorn"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.5",
+    "connect": "^3.0.1",
+    "connect-livereload": "^0.4.0",
+    "serve-static": "^1.3.0",
+    "gulp-livereload": "^2.1.0"
+  }
+}

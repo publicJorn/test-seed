@@ -1,0 +1,22 @@
+body {
+	font-family: verdana;
+	font-size: 93.75%;
+	line-height: 1.5;
+	background-color: #999;
+}
+
+#drawing svg {
+	background-color: #eee;
+}
+
+p {
+	padding: 0 .5rem;
+}
+
+p span {
+	color: #333;
+	background-color: #fff;
+	box-shadow:
+		 0.5rem 0 0 #fff,
+		-0.5rem 0 0 #fff;
+}
