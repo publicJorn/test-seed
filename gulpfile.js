@@ -11,7 +11,7 @@ var
 	connect = require('connect'),
 	connectLR = require('connect-livereload'),
 	serveStatic = require('serve-static'),
-	// serveIndex = requrie('serve-index'),
+	// serveIndex = require('serve-index'),
 	http = require('http'),
 	gulpLR = require('gulp-livereload');
 
