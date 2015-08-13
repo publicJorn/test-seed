@@ -59,7 +59,7 @@ n
 
 m
 
-# [baz][baz]
+# [baz][]
 
 w
 
