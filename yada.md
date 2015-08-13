@@ -1,6 +1,6 @@
 # INDEX
 
-- [baz](./yada#baz)
+- [baz][]
 
 a
 
