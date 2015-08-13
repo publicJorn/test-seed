@@ -1,6 +1,6 @@
 # INDEX
 
-- [baz][]
+- [baz]()
 
 a
 
