@@ -59,12 +59,12 @@ n
 
 m
 
-# <a name="baz"></a>baz
+# [baz][baz]
 
 w
 
 e
-
 r
+
 
 t
