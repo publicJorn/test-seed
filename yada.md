@@ -1,6 +1,6 @@
 # INDEX
 
-- [baz]()
+- [baz](#baz)
 
 a
 
@@ -54,7 +54,7 @@ n
 
 m
 
-# baz
+# <a name="baz"></a>baz
 
 w
 
